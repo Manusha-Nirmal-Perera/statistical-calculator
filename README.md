@@ -1,4 +1,3 @@
-# Statistics Calculator
 
 A simple, web-based application for performing statistical calculations such as mean, median, mode, range, variance, and standard deviation.
 
